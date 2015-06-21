@@ -14,7 +14,7 @@ NUSPEC_FILE=/tmp/nuget_droid_proxy.nuspec
 echo '<?xml version="1.0"?> 
 <package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
 <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd"> 
-    <id>AndroidStreamProxy</id> 
+    <id>ShowcaseView</id> 
     <version>' > $NUSPEC_FILE
 echo $NEWNAME >> $NUSPEC_FILE
 echo    '</version>
