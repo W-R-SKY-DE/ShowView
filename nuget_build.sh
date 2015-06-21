@@ -22,7 +22,7 @@ echo    '</version>
     <owners>Alex Curran, Wolfgang Reithmeier</owners>
     <licenseUrl>https://github.com/amlcurran/ShowcaseView</licenseUrl>
     <projectUrl>https://github.com/W-R-SKY-DE/ShowView</projectUrl>
-    <iconUrl></iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/amlcurran/ShowcaseView/master/library/src/main/res/drawable-hdpi/cling.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Showcase View Lib</description>
     <summary>Showcase View Lib</summary>
