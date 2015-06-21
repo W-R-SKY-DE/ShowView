@@ -2,12 +2,13 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.amlcurran</groupId>
     <artifactId>showcaseview</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>5.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     
      <scm>
     	<developerConnection>scm:git:https://github.com/W-R-SKY-DE/ShowView.git</developerConnection>
-  	</scm>
+  	  <tag>HEAD</tag>
+  </scm>
   	
   	<distributionManagement>
 		<snapshotRepository>
