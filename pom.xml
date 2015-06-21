@@ -8,6 +8,19 @@
      <scm>
     	<developerConnection>scm:git:https://github.com/W-R-SKY-DE/ShowView.git</developerConnection>
   	</scm>
+  	
+  	<distributionManagement>
+		<snapshotRepository>
+			<id>snapshots</id>
+			<name>Snapshots</name>
+			<url>file:///tmp/snapshots</url>
+		</snapshotRepository>
+		<repository>
+			<id>releases</id>
+			<name>Releases</name>
+			<url>file:///tmp/releases</url>
+		</repository>
+	</distributionManagement>
 
   <build>
     <plugins>
